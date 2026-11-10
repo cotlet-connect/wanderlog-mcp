@@ -106,6 +106,7 @@ Wanderlog has no official MCP server. Cotlet.dev is a hosted MCP server that wor
 - [Wanderlog on Cotlet.dev](https://cotlet.dev/integrations/wanderlog-api-mcp-server?utm_source=github&utm_medium=readme&utm_campaign=wanderlog&utm_content=find)
 - [PyPI package wanderlog-mcp](https://pypi.org/project/wanderlog-mcp/)
 - [Glama](https://glama.ai/mcp/servers/cotlet-connect/wanderlog-mcp)
+- [Odel](https://odel.app/modules/cotlet/wanderlog)
 - [Step-by-step guide (PDF) on Internet Archive](https://archive.org/details/cotlet-connect-wanderlog-to-ai-agents-guide)
 
 ## Also works with
